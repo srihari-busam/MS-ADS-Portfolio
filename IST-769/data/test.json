@@ -1,0 +1,266 @@
+[
+    {
+        "employee_id": 14,
+        "employee_firstname": "Chris P.",
+        "employee_lastname": "Nugget",
+        "total_timesheets": 208,
+        "total_hours_worked": 8320.0,
+        "avg_timesheet_hourly_rate": 15.1769
+    },
+    {
+        "employee_id": 22,
+        "employee_firstname": "Mike",
+        "employee_lastname": "Rophone",
+        "total_timesheets": 208,
+        "total_hours_worked": 3338.0,
+        "avg_timesheet_hourly_rate": 11.3184
+    },
+    {
+        "employee_id": 24,
+        "employee_firstname": "Otto",
+        "employee_lastname": "Moni",
+        "total_timesheets": 208,
+        "total_hours_worked": 8320.0,
+        "avg_timesheet_hourly_rate": 18.0065
+    },
+    {
+        "employee_id": 30,
+        "employee_firstname": "Sonny",
+        "employee_lastname": "Shores",
+        "total_timesheets": 208,
+        "total_hours_worked": 8320.0,
+        "avg_timesheet_hourly_rate": 13.3248
+    },
+    {
+        "employee_id": 1,
+        "employee_firstname": "Arial",
+        "employee_lastname": "Photo",
+        "total_timesheets": 129,
+        "total_hours_worked": 2178.0,
+        "avg_timesheet_hourly_rate": 14.9883
+    },
+    {
+        "employee_id": 3,
+        "employee_firstname": "Dustin",
+        "employee_lastname": "Dawind",
+        "total_timesheets": 44,
+        "total_hours_worked": 629.0,
+        "avg_timesheet_hourly_rate": 12.4500
+    },
+    {
+        "employee_id": 12,
+        "employee_firstname": "Bill",
+        "employee_lastname": "Melator",
+        "total_timesheets": 54,
+        "total_hours_worked": 2160.0,
+        "avg_timesheet_hourly_rate": 10.2539
+    },
+    {
+        "employee_id": 2,
+        "employee_firstname": "Sal",
+        "employee_lastname": "Ladd",
+        "total_timesheets": 208,
+        "total_hours_worked": 8320.0,
+        "avg_timesheet_hourly_rate": 14.5595
+    },
+    {
+        "employee_id": 7,
+        "employee_firstname": "Allan",
+        "employee_lastname": "Wrench",
+        "total_timesheets": 208,
+        "total_hours_worked": 8320.0,
+        "avg_timesheet_hourly_rate": 11.6784
+    },
+    {
+        "employee_id": 8,
+        "employee_firstname": "Ally",
+        "employee_lastname": "Gator",
+        "total_timesheets": 208,
+        "total_hours_worked": 8320.0,
+        "avg_timesheet_hourly_rate": 11.9357
+    },
+    {
+        "employee_id": 11,
+        "employee_firstname": "Bette",
+        "employee_lastname": "Alott",
+        "total_timesheets": 208,
+        "total_hours_worked": 3338.0,
+        "avg_timesheet_hourly_rate": 11.1125
+    },
+    {
+        "employee_id": 29,
+        "employee_firstname": "Seymour",
+        "employee_lastname": "Ofewe",
+        "total_timesheets": 208,
+        "total_hours_worked": 8320.0,
+        "avg_timesheet_hourly_rate": 13.8907
+    },
+    {
+        "employee_id": 4,
+        "employee_firstname": "Sandi",
+        "employee_lastname": "Shores",
+        "total_timesheets": 156,
+        "total_hours_worked": 6240.0,
+        "avg_timesheet_hourly_rate": 12.7747
+    },
+    {
+        "employee_id": 33,
+        "employee_firstname": "Mike",
+        "employee_lastname": "Fudge",
+        "total_timesheets": 208,
+        "total_hours_worked": 8320.0,
+        "avg_timesheet_hourly_rate": 70.8428
+    },
+    {
+        "employee_id": 5,
+        "employee_firstname": "Isabelle",
+        "employee_lastname": "Gunnering",
+        "total_timesheets": 208,
+        "total_hours_worked": 8320.0,
+        "avg_timesheet_hourly_rate": 19.4470
+    },
+    {
+        "employee_id": 15,
+        "employee_firstname": "Chuck",
+        "employee_lastname": "Itupp",
+        "total_timesheets": 208,
+        "total_hours_worked": 3338.0,
+        "avg_timesheet_hourly_rate": 10.8553
+    },
+    {
+        "employee_id": 16,
+        "employee_firstname": "Detyers",
+        "employee_lastname": "Erin",
+        "total_timesheets": 208,
+        "total_hours_worked": 8320.0,
+        "avg_timesheet_hourly_rate": 13.0161
+    },
+    {
+        "employee_id": 26,
+        "employee_firstname": "Pete",
+        "employee_lastname": "Moss",
+        "total_timesheets": 208,
+        "total_hours_worked": 3338.0,
+        "avg_timesheet_hourly_rate": 10.2894
+    },
+    {
+        "employee_id": 13,
+        "employee_firstname": "Bob",
+        "employee_lastname": "Enweave",
+        "total_timesheets": 121,
+        "total_hours_worked": 4840.0,
+        "avg_timesheet_hourly_rate": 12.2755
+    },
+    {
+        "employee_id": 10,
+        "employee_firstname": "Artie",
+        "employee_lastname": "Choke",
+        "total_timesheets": 208,
+        "total_hours_worked": 8320.0,
+        "avg_timesheet_hourly_rate": 12.2958
+    },
+    {
+        "employee_id": 21,
+        "employee_firstname": "Maxi",
+        "employee_lastname": "Mumm",
+        "total_timesheets": 208,
+        "total_hours_worked": 8320.0,
+        "avg_timesheet_hourly_rate": 13.7363
+    },
+    {
+        "employee_id": 23,
+        "employee_firstname": "Nat",
+        "employee_lastname": "Tural",
+        "total_timesheets": 171,
+        "total_hours_worked": 2801.0,
+        "avg_timesheet_hourly_rate": 11.6978
+    },
+    {
+        "employee_id": 19,
+        "employee_firstname": "Kent",
+        "employee_lastname": "Belevit",
+        "total_timesheets": 208,
+        "total_hours_worked": 8320.0,
+        "avg_timesheet_hourly_rate": 9.7235
+    },
+    {
+        "employee_id": 20,
+        "employee_firstname": "Mary",
+        "employee_lastname": "Mi",
+        "total_timesheets": 208,
+        "total_hours_worked": 8320.0,
+        "avg_timesheet_hourly_rate": 20.1158
+    },
+    {
+        "employee_id": 6,
+        "employee_firstname": "Lee",
+        "employee_lastname": "Hvmeehom",
+        "total_timesheets": 208,
+        "total_hours_worked": 8320.0,
+        "avg_timesheet_hourly_rate": 17.9550
+    },
+    {
+        "employee_id": 17,
+        "employee_firstname": "Kurt",
+        "employee_lastname": "Tan",
+        "total_timesheets": 208,
+        "total_hours_worked": 3338.0,
+        "avg_timesheet_hourly_rate": 9.5177
+    },
+    {
+        "employee_id": 27,
+        "employee_firstname": "Sara",
+        "employee_lastname": "Docktur-Indahaus",
+        "total_timesheets": 208,
+        "total_hours_worked": 8320.0,
+        "avg_timesheet_hourly_rate": 19.7557
+    },
+    {
+        "employee_id": 28,
+        "employee_firstname": "Sara",
+        "employee_lastname": "Isnomor",
+        "total_timesheets": 192,
+        "total_hours_worked": 7680.0,
+        "avg_timesheet_hourly_rate": 9.2822
+    },
+    {
+        "employee_id": 25,
+        "employee_firstname": "Patty",
+        "employee_lastname": "O'Furniture",
+        "total_timesheets": 208,
+        "total_hours_worked": 8320.0,
+        "avg_timesheet_hourly_rate": 11.2154
+    },
+    {
+        "employee_id": 9,
+        "employee_firstname": "Alma",
+        "employee_lastname": "Frienzergon",
+        "total_timesheets": 208,
+        "total_hours_worked": 8320.0,
+        "avg_timesheet_hourly_rate": 11.3184
+    },
+    {
+        "employee_id": 18,
+        "employee_firstname": "Justin",
+        "employee_lastname": "Case",
+        "total_timesheets": 208,
+        "total_hours_worked": 3338.0,
+        "avg_timesheet_hourly_rate": 9.1575
+    },
+    {
+        "employee_id": 31,
+        "employee_firstname": "Tally",
+        "employee_lastname": "Itupp",
+        "total_timesheets": 208,
+        "total_hours_worked": 8320.0,
+        "avg_timesheet_hourly_rate": 22.1222
+    },
+    {
+        "employee_id": 32,
+        "employee_firstname": "Tuck",
+        "employee_lastname": "Androll",
+        "total_timesheets": 208,
+        "total_hours_worked": 8320.0,
+        "avg_timesheet_hourly_rate": 29.3249
+    }
+]

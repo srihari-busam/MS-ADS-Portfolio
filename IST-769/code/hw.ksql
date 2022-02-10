@@ -1,0 +1,30 @@
+--One
+
+CREATE STREAM weblogs_new (TimeStamp bigint, Browser varchar, OS varchar, Uri varchar, User varchar) WITH (KAFKA_TOPIC='weblogs', TIMESTAMP='TimeStamp', VALUE_FORMAT='JSON');
+
+DESCRIBE weblogs EXTENDED;
+
+SELECT * FROM weblogs EMIT CHANGES;;
+
+--two
+
+
+CREATE STREAM homepage AS SELECT * FROM weblogs WHERE Uri = '/';
+
+DESCRIBE homepage;
+
+SELECT * FROM homepage EMIT CHANGES;
+
+
+-- three
+
+SELECT OS, COUNT(*) FROM weblogs WINDOW TUMBLING (SIZE 1 MINUTE) GROUP BY OS;
+
+---four
+
+CREATE STREAM weblogs2 AS SELECT 1 AS Grp, * FROM weblogs;
+
+CREATE TABLE user_activity AS SELECT Grp, COUNT(*) FROM weblogs2 WINDOW TUMBLING (SIZE 1 MINUTE) GROUP BY Grp;
+
+--- five
+SELECT User, COUNT(*) FROM weblogs WINDOW TUMBLING (SIZE 1 MINUTE) GROUP BY User HAVING COUNT(*) > 10;
