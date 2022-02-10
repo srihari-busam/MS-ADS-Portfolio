@@ -1,4 +1,4 @@
-# IST-769: Advanced
+# IST-769: Advanced Big Data Management
 
 
 ## Folder structure
