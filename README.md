@@ -11,5 +11,8 @@ This repo contain `Srihari Busam` portfolio  Syracuse M.S. in Applied Data Scien
 ├── MBC638                          # Folder contains all the details of project done for "Data Analysis & Decision Making" class
 ├── README.md                       # (this file)
 ├── SrihariBusam-Resume-2022.docx   # Srihari Busam resume
-└── Srihari_Busam_Portfolio.docx    # Portfolid document in-progress
+├── Srihari_Busam_MS-ADS-Portfolio.mp4   # Portfolio presentation video
+├── Srihari_Busam_MS-ADSPortfolio-Report.pdf   # Portfolio report in PDF format
+├── Srihari_Busam_MS-ADS-Presentation.pptx   # Portfolio power point presentation
+└── SrihariBusam-Resume-2022.docx    # Portfolid document in-progress
 ```
